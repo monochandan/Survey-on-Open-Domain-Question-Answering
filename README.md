@@ -20,37 +20,37 @@ arXiv:2012.12624.
 Xiong, C., 2019. “Learning to retrieve reasoning paths over
 wikipedia graph for question answering”. arXiv preprint
 arXiv:1911.10470.
-[3] Cao, Q., Trivedi, H., Balasubramanian, A., and Balasubramanian,
+- [3] Cao, Q., Trivedi, H., Balasubramanian, A., and Balasubramanian,
 N., 2020. “Deformer: Decomposing pre-trained
 transformers for faster question answering”. arXiv preprint
 arXiv:2005.00697.
-[4] Friedman, D., Dodge, B., and Chen, D., 2021. “Singledataset
+- [4] Friedman, D., Dodge, B., and Chen, D., 2021. “Singledataset
 experts for multi-dataset question answering”.
 arXiv preprint arXiv:2109.13880.
-[5] Yang, W., Xie, Y., Lin, A., Li, X., Tan, L., Xiong,
+- [5] Yang, W., Xie, Y., Lin, A., Li, X., Tan, L., Xiong,
 K., Li, M., and Lin, J., 2019. “End-to-end opendomain
 question answering with bertserini”. arXiv preprint
 arXiv:1902.01718.
-[6] Das, R., Dhuliawala, S., Zaheer, M., and McCallum, A.,
+- [6] Das, R., Dhuliawala, S., Zaheer, M., and McCallum, A.,
 2019. “Multi-step retriever-reader interaction for scalable
 open-domain question answering”. arXiv preprint
 arXiv:1905.05733.
-[7] Sun, H., Bedrax-Weiss, T., and Cohen, W. W., 2019.
+- [7] Sun, H., Bedrax-Weiss, T., and Cohen, W. W., 2019.
 “Pullnet: Open domain question answering with iterative
 retrieval on knowledge bases and text”. arXiv preprint
 arXiv:1904.09537.
-[8] Qi, P., Lin, X., Mehr, L., Wang, Z., and Manning,
+- [8] Qi, P., Lin, X., Mehr, L., Wang, Z., and Manning,
 C. D., 2019. “Answering complex open-domain questions
 through iterative query generation”. arXiv preprint
 arXiv:1910.07000.
-[9] Xiong,W., Li, X. L., Iyer, S., Du, J., Lewis, P.,Wang,W. Y.,
+- [9] Xiong,W., Li, X. L., Iyer, S., Du, J., Lewis, P.,Wang,W. Y.,
 Mehdad, Y., Yih, W.-t., Riedel, S., Kiela, D., et al., 2020.
 “Answering complex open-domain questions with multihop
 dense retrieval”. arXiv preprint arXiv:2009.12756.
-[10] Chen, J., Lin, S.-t., and Durrett, G., 2019. “Multi-hop
+- [10] Chen, J., Lin, S.-t., and Durrett, G., 2019. “Multi-hop
 question answering via reasoning chains”. arXiv preprint
 arXiv:1910.02610.
-[11] Zhu, F., Lei, W., Wang, C., Zheng, J., Poria, S., and Chua,
+- [11] Zhu, F., Lei, W., Wang, C., Zheng, J., Poria, S., and Chua,
 T.-S., 2021. “Retrieving and reading: A comprehensive survey
 on open-domain question answering”. arXiv preprint
 arXiv:2101.00774.
