@@ -32,8 +32,8 @@ K., Li, M., and Lin, J., 2019. “End-to-end opendomain
 question answering with bertserini”. arXiv preprint
 arXiv:1902.01718.
 - [6] Das, R., Dhuliawala, S., Zaheer, M., and McCallum, A.,
-2019. “Multi-step retriever-reader interaction for scalable
-open-domain question answering”. arXiv preprint
+2019. Multi-step retriever-reader interaction for scalable
+open-domain question answering. arXiv preprint
 arXiv:1905.05733.
 - [7] Sun, H., Bedrax-Weiss, T., and Cohen, W. W., 2019.
 “Pullnet: Open domain question answering with iterative
