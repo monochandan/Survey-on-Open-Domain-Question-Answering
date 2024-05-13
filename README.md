@@ -13,14 +13,14 @@ The authors discuss the importance of efficient retriever-reader architectures a
 In conclusion, the survey provides a thorough overview of the state-of-the-art in OpenQA, discussing various methodologies and their contributions to the field. The authors suggest that while significant progress has been made, there is still room for improvement, particularly in the context of visual OpenQA and predictive answering based on current data trends.
 
 REFERENCES
--- [1] Lee, J., Sung, M., Kang, J., and Chen, D., 2020. “Learning
+- [1] Lee, J., Sung, M., Kang, J., and Chen, D., 2020. “Learning
 dense representations of phrases at scale”. arXiv preprint
 arXiv:2012.12624.
--- [2] Asai, A., Hashimoto, K., Hajishirzi, H., Socher, R., and
+- [2] Asai, A., Hashimoto, K., Hajishirzi, H., Socher, R., and
 Xiong, C., 2019. “Learning to retrieve reasoning paths over
 wikipedia graph for question answering”. arXiv preprint
 arXiv:1911.10470.
--- [3] Cao, Q., Trivedi, H., Balasubramanian, A., and Balasubramanian,
+[3] Cao, Q., Trivedi, H., Balasubramanian, A., and Balasubramanian,
 N., 2020. “Deformer: Decomposing pre-trained
 transformers for faster question answering”. arXiv preprint
 arXiv:2005.00697.
