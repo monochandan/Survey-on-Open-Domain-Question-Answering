@@ -16,6 +16,8 @@ REFERENCES
 - [1] Lee, J., Sung, M., Kang, J., and Chen, D., 2020. “Learning
 dense representations of phrases at scale”. arXiv preprint
 arXiv:2012.12624.
+https://arxiv.org/abs/2012.12624
+
 - [2] Asai, A., Hashimoto, K., Hajishirzi, H., Socher, R., and
 Xiong, C., 2019. “Learning to retrieve reasoning paths over
 wikipedia graph for question answering”. arXiv preprint
